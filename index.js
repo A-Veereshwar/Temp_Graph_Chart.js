@@ -27,7 +27,7 @@ async function tempChart(){
                 borderWidth: 1
               },
               {
-                label: 'Northern Hemisphere Average Temperature',
+                label: 'Southern Hemisphere Average Temperature',
                 data: dataOutput.southernTemp,
                 fill: false,
                 borderColor: 'rgba(88, 214, 141, 1)',
